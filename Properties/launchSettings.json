@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Aarons_Tasker": {
+      "commandName": "Project",
+      "commandLineArgs": "-dm -lge -lvl DEBUG -lgf -c"
+    }
+  }
+}
